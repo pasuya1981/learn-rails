@@ -13,7 +13,7 @@ gem 'jbuilder', '~> 1.2'
  # learn-rails
 gem 'activerecord-tableless'
 gem 'compass-rails'
-gem 'figaro'
+gem 'figaro' # run rails g figaro:install=> ( config/application.yml )
 gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
