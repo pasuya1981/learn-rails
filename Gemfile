@@ -10,6 +10,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
+gem 'thread_safe', '0.2.0'
+
  # learn-rails
 gem 'activerecord-tableless'
 gem 'compass-rails'
